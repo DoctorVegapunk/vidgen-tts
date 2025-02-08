@@ -1,0 +1,12 @@
+kokoro>=0.7.9
+torch>=2.3.0
+soundfile
+phonemizer
+misaki[en]
+spacy
+accelerate>=0.26.0
+pydub
+flask
+python-dotenv
+sentence-transformers
+gunicorn
