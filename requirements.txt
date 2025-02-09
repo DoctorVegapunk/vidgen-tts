@@ -10,3 +10,4 @@ flask
 python-dotenv
 sentence-transformers
 gunicorn
+psutil
